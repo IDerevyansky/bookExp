@@ -18,7 +18,7 @@ class First {
         System.out.println("---------------------------");
 
         FourCycle fourCycle = new FourCycle();
-        fourCycle.name("Ton");
+        fourCycle.name("Tonn");
         fourCycle.speed(100);
         fourCycle.wheels(4);
         fourCycle.seats(2);

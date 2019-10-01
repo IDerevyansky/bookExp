@@ -1,5 +1,4 @@
 package com.CicleInterface;
-import java.lang.String;
 
 public interface Cicle {
     public void name(String val_name);
