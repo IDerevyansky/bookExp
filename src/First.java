@@ -18,10 +18,18 @@ class First {
         System.out.println("---------------------------");
 
         FourCycle fourCycle = new FourCycle();
-        fourCycle.name("Tonn");
+        fourCycle.name("Камма");
         fourCycle.speed(100);
         fourCycle.wheels(4);
         fourCycle.seats(2);
+
+        int q = 0;
+        while (q <= 10){
+           System.out.print(q+" ");
+           ++q;
+        }
+
+
 
     }
 
