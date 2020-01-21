@@ -1,6 +1,6 @@
 package learn_Java;
 
-import learn_Java.car.*;
+import learn_Java.car.Car;
 
 public class App {
 	static Car toyota = new Car();
